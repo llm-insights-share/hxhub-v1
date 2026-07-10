@@ -1,6 +1,7 @@
 version: "1.0"
 maintainers:
   - platform-team
+  - '张三'
 minApprovals: 1
 consumerCanSubmit: true
 installRequiresApproval: true
