@@ -1,0 +1,16 @@
+id: business-insight
+version: 0.1.0
+category: package
+kind: guide.skill
+status: enforced
+stages:
+  - req
+tags: []
+provenance:
+  source: hx-hub
+  evidence:
+    - type: evidence
+      ref: 业务理解已实践
+security:
+  hash: 949c00641a59d0e6acae78f91976bb48bab6acf26a9a201eae80184d1f627e1a
+updatedAt: 2026-07-10T09:12:51.633Z

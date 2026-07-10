@@ -1,0 +1,14 @@
+id: business-insight
+kind: guide.skill
+stage: req
+task: biz-understanding
+version: 0.1.0
+origin: hub
+status: trial
+execution: inferential
+provenance:
+  - type: promoted-from
+    ref: hx-hub:business-insight
+  - type: evidence
+    ref: 业务理解已实践
+metrics: {}
