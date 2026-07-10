@@ -1,0 +1,14 @@
+id: require-analysis
+kind: guide.skill
+stage: req
+task: requirements-analysis
+version: 0.1.0
+origin: hub
+status: trial
+execution: inferential
+provenance:
+  - type: promoted-from
+    ref: hx-hub:require-analysis
+  - type: evidence
+    ref: 需求分析已多项目使用
+metrics: {}

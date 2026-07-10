@@ -1,0 +1,16 @@
+id: require-analysis
+version: 0.1.0
+category: package
+kind: guide.skill
+status: enforced
+stages:
+  - req
+tags: []
+provenance:
+  source: hx-hub
+  evidence:
+    - type: evidence
+      ref: 需求分析已多项目使用
+security:
+  hash: 5944e6c2719a88b8b0cf42e4b73376bc00a3cca0a1e400530739e3d1a097d26a
+updatedAt: 2026-07-10T07:50:40.142Z
